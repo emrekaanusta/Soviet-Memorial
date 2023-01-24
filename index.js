@@ -25,7 +25,7 @@ for ( var i = 0 ; i < x ; i++ ) {
         audio4.play();
         break;
     case "YARRO":
-        var audio5 = new Audio("sounds/yarro.mp3");
+        var audio5 = new Audio("yarro.mp3");
         audio5.play();
         break;
     case "SENOŞ":
