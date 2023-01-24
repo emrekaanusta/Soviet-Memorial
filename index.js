@@ -9,19 +9,19 @@ for ( var i = 0 ; i < x ; i++ ) {
 
   switch (buttoninner) {
     case "GÜLSEN":
-        var audio1 = new Audio("sounds/tom-1.mp3");
+        var audio1 = new Audio("gülşen.mp3");
         audio1.play();
         break;
     case "İREMÖ":
-        var audio2 = new Audio("sounds/iremö.mp3");
+        var audio2 = new Audio("iremö.mp3");
         audio2.play();
         break;
     case "BERKBLUE":
-        var audio3 = new Audio("sounds/berk.mp3");
+        var audio3 = new Audio("berk.mp3");
         audio3.play();
         break;
     case "EYLOSSUM":
-        var audio4 = new Audio("sounds/eylem.mp3");
+        var audio4 = new Audio("eylem.mp3");
         audio4.play();
         break;
     case "YARRO":
@@ -29,19 +29,19 @@ for ( var i = 0 ; i < x ; i++ ) {
         audio5.play();
         break;
     case "SENOŞ":
-        var audio6 = new Audio("sounds/kick-bass.mp3");
+        var audio6 = new Audio(".mp3");
         audio6.play();
         break;
     case "RUBBİC":
-        var audio7 = new Audio("sounds/rubbic.mp3");
+        var audio7 = new Audio("rubbic.mp3");
         audio7.play();
         break;
     case "ZZ":
-        var audio8 = new Audio("sounds/zz.mp3");
+        var audio8 = new Audio("zz.mp3");
         audio8.play();
         break;
     case "EMKA":
-        var audio9 = new Audio("sounds/emka.mp3");
+        var audio9 = new Audio("emka.mp3");
         audio9.play();
         break;
 
